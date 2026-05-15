@@ -16,3 +16,4 @@ Me interesa el diseño UI/UX y el desarrollo frontend.
 ## Contacto
 
 📧 cesardidier.carballo@gmail.com
+   _Última actualización: 15 de mayo de 2026_
